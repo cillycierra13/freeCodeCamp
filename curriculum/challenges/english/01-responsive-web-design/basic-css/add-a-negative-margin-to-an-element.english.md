@@ -65,7 +65,7 @@ tests:
     background-color: blue;
     color: #fff;
     padding: 20px;
-    margin: 20px;
+    margin: -20px;
   }
 </style>
 
